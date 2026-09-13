@@ -10,7 +10,7 @@ Ammar Nura Gambo is a tech enthusiast interested in exploring technology, softwa
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student
+- 🎓 Computer Scientist 
 - 💻 Passionate about technology
 - 🌱 Currently learning and improving my technical skills
 - 🔐 Interested in cybersecurity
