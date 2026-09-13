@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I'm Ammar Nura Gambo, a tech enthusiast interested in exploring technology, software development, cybersecurity, and building useful digital solutions.
+Ammar Nura Gambo is a tech enthusiast interested in exploring technology, software development, cybersecurity, and building useful digital solutions.
 
 ---
 
